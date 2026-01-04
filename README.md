@@ -3,8 +3,14 @@ Objective: Build an LLM application for detecting scam messages.
 
 LLM Used: flash-lite
 
-Steps to use repository
-
+## Steps to use repository
+- Clone this repo
+- Create a virtual environment
+    - `Conda: conda create -n <venv_name> python==3.12 -y`
+- Activate virtual environment
+    - `Conda: conda activate <venv_name>`
+- Install dependencies
+    - `pip install -r requirements.txt`
 
 
 ## Project Folder
